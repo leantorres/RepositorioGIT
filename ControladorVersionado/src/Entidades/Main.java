@@ -1,7 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- vamos andando
- djasodasjdoasdjoasdop
+va de vuelta
  */
 
 package Entidades;
